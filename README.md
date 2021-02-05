@@ -47,7 +47,9 @@ Tambien se utilizo tinkercad que nos sirvio como laboratorio virtual.
 1) Abrimos el simulador de tinkercad y seleccionamos nuevo circuito
 2) Elegimos los materiales ya antes detallados
 3) Armamos el circuito de la figura  6.1
-  3.1)  conectamos las 2 resistencias a una fuente de voltaje de 15V
+
+    3.1)  conectamos las 2 resistencias a una fuente de voltaje de 15V
+  
 4)  A la resistencia RL le damos  los 10 diferentes valores
 5) Con ayuda de un multimetro medimos la corriete y voltaje en RL 
 6) Anotamos los resultados en la tabla  6.1
