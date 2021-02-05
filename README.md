@@ -64,14 +64,18 @@ Tambien se utilizo tinkercad que nos sirvio como laboratorio virtual.
 
 Tabla 6.1. Parametros Electricos del circuito de la figura 6.1
 
+![.](IMG/tablap.png)
+
 
 5.1 ¿se cumple el Teorema de la Maxima Transferencia de Potencia? Argumente su respuesta
 Como podemos observar no se llega a cumplir el teorema ya que para esto las 2 resistencias deben tener el mismo valor y aqui no se presenta dicho caso,  la resistencia de 1kΩ es la que mas se acerca a la de 1.2kΩ pero la potencia que da no es la maxima que puede alcanzar este circuito.
 5.2 ¿Cual fue la potencia maxima en RL?
 
+La  potencia maxima alcanzada es de 0, 04648W teoricamente y experimentalmente  0,04651W
+
 5.3 ¿ Para que valor de RL se obtiene la MTP?
 
-
+La maxima potencia de obtiene con una resistencia de 1,2kΩ y en caso de aqui como no tenemos esa resistencia, el MTP se dio con la de 1kΩ pero esta no es la maxima que se puede dar ya que en este laboratorio RL no es igual a Rs
 
 6. CONCLUCION 
 
