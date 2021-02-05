@@ -21,8 +21,13 @@
 
 3. DIAGRAMAS
 
+![.](IMG/esquema.png)
+
 Lo que haremos es pasar del diagrama electrico a al protoboard 
 
+![.](IMG/PP.png)
+![.](IMG/PPP.png)
+![.](IMG/PPPP.png)
 
 4. LISTA DE COMPONENTES
 
