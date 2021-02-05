@@ -67,8 +67,10 @@ Tabla 6.1. Parametros Electricos del circuito de la figura 6.1
 ![.](IMG/tablap.png)
 
 
-5.1 ¿se cumple el Teorema de la Maxima Transferencia de Potencia? Argumente su respuesta
+5.1 ¿se cumple el Teorema de la Maxima Transferencia de Potencia? Argumente su 
+
 Como podemos observar no se llega a cumplir el teorema ya que para esto las 2 resistencias deben tener el mismo valor y aqui no se presenta dicho caso,  la resistencia de 1kΩ es la que mas se acerca a la de 1.2kΩ pero la potencia que da no es la maxima que puede alcanzar este circuito.
+
 5.2 ¿Cual fue la potencia maxima en RL?
 
 La  potencia maxima alcanzada es de 0, 04648W teoricamente y experimentalmente  0,04651W
@@ -82,6 +84,8 @@ La maxima potencia de obtiene con una resistencia de 1,2kΩ y en caso de aqui co
 - Como pudimos notar la maxima potencia se dio cuando las dos resistencias son iguales y cuando la una resistencia comienza a subir de valor la potencia se comienza a reducir.
 
 - Una vez hecho los calculos analiticos y practicos podemos notar un error muy minimo que pas que todo se debe a errores de aproximacion ya que nos encontramos utilizando un simulador virtual.
+
+- Como podemos observar si hay un margen de error en los calculos pero esto se debe al uso de los decimales ya que analiticamente se utilizo 4 decimales y el simulador virtual nos arroja 2 decimales.
 
 7. BIBLIOGRAFIA
 
