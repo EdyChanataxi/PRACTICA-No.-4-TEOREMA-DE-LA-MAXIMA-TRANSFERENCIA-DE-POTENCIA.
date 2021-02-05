@@ -16,6 +16,7 @@
 
 2. MARCO TEORICO
 
+![.](IMG/potencia.png)
 
 
 3. DIAGRAMAS
